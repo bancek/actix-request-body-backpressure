@@ -1,0 +1,9 @@
+[package]
+name = "actix-request-body-backpressure"
+version = "0.1.0"
+authors = ["Luka Zakrajsek <luka@bancek.net>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "1.0.8"
+futures = "0.1.29"
