@@ -5,5 +5,4 @@ authors = ["Luka Zakrajsek <luka@bancek.net>"]
 edition = "2018"
 
 [dependencies]
-actix-web = "2.0.0"
-actix-rt = "1.0.0"
+actix-web = "3.0.0"
